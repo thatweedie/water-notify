@@ -20,4 +20,4 @@ while True:
                        callback_on_click=lambda: increment(), 
                        threaded=True, duration=10, 
                        icon_path="C:\\Users\harsh\\Documents\\Python Projects\\water\\water.ico")
-    time.sleep(5)
+    time.sleep(3600)
